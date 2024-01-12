@@ -1,4 +1,5 @@
 # 基础作业
+
 ## 使用InternLM-Chat-7B模型生成300字的小故事
 ![Alt text](../Notes/Images/L2_1.png)
 
